@@ -15,5 +15,5 @@ npx react-native start
 
 ### Start Application
 ```bash
-npx react-native start
+npx react-native run-ios
 ```
