@@ -1,6 +1,4 @@
-# Cyling Weather App
-
-The app shows you a forecast o
+# Cycling Weather iOS
 
 ## Installation
 
