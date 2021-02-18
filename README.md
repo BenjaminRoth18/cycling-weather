@@ -1,0 +1,21 @@
+# Cyling Weather App
+
+The app shows you a forecast o
+
+## Installation
+
+### Install packages
+
+```bash
+yarn
+```
+### Start Metro
+
+```bash
+npx react-native start
+```
+
+### Start Application
+```bash
+npx react-native start
+```
